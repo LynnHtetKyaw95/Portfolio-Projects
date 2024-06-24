@@ -1,4 +1,4 @@
-./.vscode
-./.DS_Store
-./tableau
-./dataset/.DS_Store
+.vscode
+.DS_Store
+tableau
+dataset/.DS_Store
